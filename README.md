@@ -1,25 +1,27 @@
 # 👋 ¡Hola! Soy BlackZeroX
 
-> Desarrollador en constante aprendizaje. Construyo cosas para la web, automatizo lo que puedo y dejo los commits limpios.
+> Desarrollador multi-lenguaje con experiencia en web, escritorio y bases de datos. Ex-wiki de [foro.elhacker.net](https://foro.elhacker.net/profiles/blackzerox-u59494.html) (BlackZeroX).
 
 ---
 
 ## 🛠️ Stack
 
-| Lenguajes | Herramientas |
-|-----------|--------------|
-| JavaScript / TypeScript | Git, GitHub |
-| Java | Vite, Vue.js |
-| CFML / BoxLang | Docker |
+| Lenguajes | Frameworks / Frontend | Bases de datos |
+|-----------|----------------------|----------------|
+| PHP | Angular | Oracle |
+| Java | — | MySQL |
+| C / C++ | — | PostgreSQL |
+| HTML / CSS | — | — |
+| VB6 / Basic | — | — |
 
-## 📌 Actualmente
+## 📌 Experiencia destacada
 
-- 🚀 Aprendiendo y publicando proyectos nuevos
-- 📚 Explorando nuevas herramientas y frameworks
+- 📚 Miembro de la **wiki de foro.elhacker.net** — documentación y tutoriales de hacking/seguridad
 
 ## 🔗 Conecta conmigo
 
-- 📧 [GitHub](https://github.com/BlackZeroX)
+- 💼 [LinkedIn](https://www.linkedin.com/in/miguel-angel-ortega-avila-778bb19b/)
+- 🕵️ [foro.elhacker.net](https://foro.elhacker.net/profiles/blackzerox-u59494.html)
 - 📧 blackzerox2006@gmail.com
 
 ---
